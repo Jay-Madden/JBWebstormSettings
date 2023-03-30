@@ -1,0 +1,78 @@
+<application>
+  <component name="GraziConfig">
+    <option name="userDisabledRules">
+      <set>
+        <option value="LanguageTool.EN.THANKS_SENT_END_COMMA" />
+        <option value="LanguageTool.EN.YEAR_OLD_HYPHEN" />
+        <option value="LanguageTool.EN.NN_CD_NN_CD_COMMA" />
+        <option value="LanguageTool.EN.QUESTION_MARK" />
+        <option value="LanguageTool.EN.OUT_OF_THE_WAY" />
+        <option value="LanguageTool.EN.NO_SPACE_CLOSING_QUOTE" />
+        <option value="LanguageTool.EN.I_FOR_ONE_VB_COMMA" />
+        <option value="LanguageTool.EN.MISSING_COMMA_AFTER_INTRODUCTORY_PHRASE" />
+        <option value="LanguageTool.EN.EN_CONTRACTION_SPELLING" />
+        <option value="LanguageTool.EN.FOR_GODS_SAKE_COMMA" />
+        <option value="LanguageTool.EN.FIRST_COME_FIRST_SERVED_COMMA" />
+        <option value="LanguageTool.EN.COMMA_THANKS" />
+        <option value="LanguageTool.EN.COMMA_PERIOD" />
+        <option value="LanguageTool.EN.RB_RB_COMMA" />
+        <option value="LanguageTool.EN.MISSING_HYPHEN" />
+        <option value="LanguageTool.EN.OUT_OF_PLACE" />
+        <option value="LanguageTool.EN.STATE_OF_THE_ART" />
+        <option value="LanguageTool.EN.GO_FOR_IT_GIRLS_COMMA" />
+        <option value="LanguageTool.EN.ENUMERATION_AND_DASHES" />
+        <option value="LanguageTool.EN.BY_DEFAULT_COMMA" />
+        <option value="LanguageTool.EN.UNLIKELY_OPENING_PUNCTUATION" />
+        <option value="LanguageTool.EN.ME_MYSELF_AND_I_COMMA" />
+        <option value="LanguageTool.EN.UH_UH_COMMA" />
+        <option value="LanguageTool.EN.E_G" />
+        <option value="LanguageTool.EN.COMMA_AFTER_A_MONTH" />
+        <option value="LanguageTool.EN.I_E" />
+        <option value="LanguageTool.EN.MISSING_COMMA_BETWEEN_DAY_AND_YEAR" />
+        <option value="LanguageTool.EN.COMMA_AND_NUMBERS" />
+        <option value="LanguageTool.EN.FOR_NOUN_SAKE" />
+        <option value="LanguageTool.EN.MISSING_COMMA_AFTER_WEEKDAY" />
+        <option value="LanguageTool.EN.INTERJECTIONS_PUNCTUATION" />
+        <option value="LanguageTool.EN.UNNECESSARY_COMMA" />
+        <option value="LanguageTool.EN.FACE_FIRST" />
+        <option value="LanguageTool.EN.IF_WE_CANT_COMMA" />
+        <option value="LanguageTool.EN.SENT_START_CONJUNCTIVE_LINKING_ADVERB_COMMA" />
+        <option value="LanguageTool.EN.SENT_START_JJ_PLEASE_COMMA" />
+        <option value="LanguageTool.EN.O_CLOCK" />
+        <option value="LanguageTool.EN.NO_COMMA_BEFORE_INDIRECT_QUESTION" />
+        <option value="LanguageTool.EN.HAPPY_BIRTHDAY_COMMA" />
+        <option value="LanguageTool.EN.THEN_WHEN_COMMA" />
+        <option value="LanguageTool.EN.HUH_COMMA" />
+        <option value="LanguageTool.EN.COMMA_COMPOUND_SENTENCE_2" />
+        <option value="LanguageTool.EN.NOWADAYS_COMMA" />
+        <option value="LanguageTool.EN.COMMA_COMPOUND_SENTENCE_3" />
+        <option value="LanguageTool.EN.COMMA_COMPOUND_SENTENCE_4" />
+        <option value="LanguageTool.EN.MISSING_COMMA_WITH_NNP" />
+        <option value="LanguageTool.EN.DOUBLE_PUNCTUATION" />
+        <option value="LanguageTool.EN.COMMA_COMPOUND_SENTENCE" />
+        <option value="LanguageTool.EN.PRP_MD_PRP_MD_COMMA" />
+        <option value="LanguageTool.EN.THE_JJR_THE_MORE_COMMA" />
+        <option value="LanguageTool.EN.SENT_START_JJ_THAT_COMMA" />
+        <option value="LanguageTool.EN.YEAR_OLD_PLURAL" />
+        <option value="LanguageTool.EN.ABBREVIATION_PUNCTUATION" />
+        <option value="LanguageTool.EN.COMMA_TAG_QUESTION" />
+        <option value="LanguageTool.EN.FRENCH_S" />
+        <option value="LanguageTool.EN.APOS_ARE" />
+        <option value="LanguageTool.EN.EN_UNPAIRED_BRACKETS" />
+        <option value="LanguageTool.EN.EG_SPACE" />
+        <option value="LanguageTool.EN.GOD_COMMA" />
+        <option value="LanguageTool.EN.PRP_COMMA" />
+      </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="dont" />
+            <option value="github" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+  </component>
+</application>
